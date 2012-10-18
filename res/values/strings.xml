@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">ChartAnalysis</string>
+    <string name="title_activity_main">Chart Libraries</string>
+
+    <string-array name="chart_libs">
+        <item>AChart Engine</item>
+    </string-array>
+
+    <string name="title_section1">Pie Chart</string>
+    <string name="title_section2">Cartesian Graph</string>
+    <string name="title_section3">Bar Chart</string>
+    <string name="title_section4">Multi Axis Bar Chart</string>
+    <string name="title_section5">Category Bar Chart</string>
+    <string name="title_activity_achart_engine_charts">AChartEngine charts</string>
+    <string name="title_activity_aplot_charts">Android Plot charts (crashfest)</string>
+    <string name="title_activity_droidplot_charts">Droid Charts</string>
+
+</resources>
